@@ -20,6 +20,3 @@ Google Fonts: Fonts used in the project.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Thanks to OpenAI for providing the language model used in generating code snippets.
-This README provides a brief overview of the project, how to get started, customize the content, and information about dependencies and licensing. Adjust it according to your specific project details and requirements.
