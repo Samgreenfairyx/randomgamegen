@@ -4,8 +4,6 @@ This project is a simple web application that generates a random game from a pre
 Getting Started
 Clone the repository to your local machine:
 
-bash
-git clone https://github.com/your-username/random-game-generator.git
 Open the index.html file in your preferred web browser.
 
 Click the "Generate Game" button to get a random game suggestion.
